@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FilterUtil:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FilterUtil_jar</output-path>
+    <root id="archive" name="FilterUtil.jar">
+      <element id="module-output" name="FilterUtil" />
+    </root>
+  </artifact>
+</component>
